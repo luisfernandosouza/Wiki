@@ -1,4 +1,4 @@
-# Luis Fernando Souza
+# Luis Fernando Souza de Araujo
 
 ## Sobre
 Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovadoras. Tenho experiência em várias tecnologias de desenvolvimento, desde Python e JavaScript até bancos de dados como MongoDB e PostgreSQL. Meu objetivo é contribuir para projetos desafiadores e aprender constantemente.
