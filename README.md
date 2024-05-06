@@ -5,14 +5,14 @@ Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovad
 
 ## Habilidades
 
-- Python ![Stars](https://img.shields.io/badge/Stars-★★★★☆-brightgreen)
-- JavaScript ![Stars](https://img.shields.io/badge/Stars-★★★★☆-brightgreen)
-- Node.js ![Stars](https://img.shields.io/badge/Stars-★★★★☆-brightgreen)
-- MongoDB ![Stars](https://img.shields.io/badge/Stars-★★★☆☆-brightgreen)
-- PostgreSQL ![Stars](https://img.shields.io/badge/Stars-★★★☆☆-brightgreen)
-- C ![Stars](https://img.shields.io/badge/Stars-★★★☆☆-brightgreen)
-- HTML5 ![Stars](https://img.shields.io/badge/Stars-★★★☆☆-brightgreen)
-- CSS3 ![Stars](https://img.shields.io/badge/Stars-★★★☆☆-brightgreen)
+- Python
+- JavaScript
+- Node.js
+- MongoDB
+- PostgreSQL
+- C
+- HTML5
+- CSS3
 
 ## Experiência
 
