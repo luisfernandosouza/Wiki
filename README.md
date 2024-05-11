@@ -33,6 +33,6 @@ Janeiro 2023 - Maio 2023 | UFS
 
 Desenvolvi uma IA em Python para jogar o jogo Entropia como parte do curso de Inteligência Artificial.
 
-[GitHub do Projeto](https://github.com/luisfernandosouza/entropy-game)
+[GitHub do Projeto](https://github.com/luisfernandosouza/entropy_game)
 
 [Regras do Jogo](https://www.codecup.nl/entropy/rules.php)
